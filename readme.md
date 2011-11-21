@@ -1,0 +1,1 @@
+Brings HTML5 placeholder attribute into all modern browsers.
